@@ -1,0 +1,5 @@
+print('Olá,mundo!')
+print('Bom dia a todos presentes')
+print('Uma boa semana a todos')
+print('Vamo que vamos!')
+print('Boa pra nós família!')
